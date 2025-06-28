@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <nav class="navbar">
       <button class="menu-toggle">☰</button>
       <ul>
-        <li><a href="home.html">HOME</a></li>
+        <li><a href="index.html">HOME</a></li>
         <li><a href="about.html">ABOUT</a></li>
         <li><a href="contact.html">CONTACT</a></li>
       </ul>
